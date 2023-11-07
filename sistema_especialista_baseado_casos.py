@@ -1,4 +1,4 @@
-import streamlit as st
+    import streamlit as st
 
 def main():
     st.title("Sistema Especialista Baseado em Casos para Diagnóstico Médico")
